@@ -1,3 +1,4 @@
+-- This script will update the employee_relationship table
 
 INSERT INTO dbo.employee_relationship (manager_id, employee_id) VALUES (1001, 1002);
 INSERT INTO dbo.employee_relationship (manager_id, employee_id) VALUES (1001, 1003);

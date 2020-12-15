@@ -1,3 +1,5 @@
+-- This script will create the schema
+
 CREATE TABLE dbo.role (
     id int PRIMARY KEY IDENTITY(1,1),
     role_name VARCHAR(50)
