@@ -1,3 +1,5 @@
+-- Store procedure that will be called from the code to insert new employee records
+
 USE SSquaredEnterprises;  
 GO  
 CREATE PROCEDURE spAddNewEmployee  

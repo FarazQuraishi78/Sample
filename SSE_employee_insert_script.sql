@@ -1,3 +1,5 @@
+-- This script will add data to the employee and employee role tables
+
 INSERT INTO dbo.employee (emp_id, first_name, last_name) VALUES (1001, 'Jeffrey','Wells');
 INSERT INTO dbo.employee (emp_id, first_name, last_name) VALUES (1002, 'Victor','Atkins');
 INSERT INTO dbo.employee (emp_id, first_name, last_name) VALUES (1003, 'Kelli','Hamilton');
